@@ -2,7 +2,7 @@
 
 # HookWorks OSS
 
-**Open-source software, tools, and developer infrastructure built by HookWorks.**
+**Developer tools, infrastructure, and open-source software built by HookWorks.**
 
 [![Website](https://img.shields.io/badge/Website-hookworkshq.com-blue?style=flat-square)](https://hookworkshq.com)
 [![X / Twitter](https://img.shields.io/badge/Follow-%40HookWorksOSS-black?style=flat-square&logo=x)](https://twitter.com/HookWorksOSS)
