@@ -42,7 +42,7 @@ We welcome contributions from engineers and developers worldwide. Whether fixing
 
 * **Website:** [hookworkshq.com](https://hookworkshq.com)
 * **X (Twitter):** [@HookWorksOSS](https://twitter.com/HookWorksOSS)
-* **Inquiries:** Open an issue or contact `hello@hookworkshq.com`
+* **Inquiries:** Open an issue or contact `contact@hookworkshq.com`
 
 ---
 
