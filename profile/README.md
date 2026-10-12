@@ -18,13 +18,13 @@ HookWorks OSS is the open-source engineering wing of [HookWorks](https://hookwor
 
 ---
 
-### Featured Repositories
+<!-- ### Featured Repositories
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **[project-one](https://github.com/hookworksoss)** | High-performance webhook delivery engine. | `Active` |
 | **[project-two](https://github.com/hookworksoss)** | Lightweight developer utility toolkit. | `Beta` |
-| **[project-three](https://github.com/hookworksoss)** | SDKs and integrations for modern stacks. | `Active` |
+| **[project-three](https://github.com/hookworksoss)** | SDKs and integrations for modern stacks. | `Active` | -->
 
 ---
 
